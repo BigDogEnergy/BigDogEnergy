@@ -1,1 +1,6 @@
-
+- 🔭 I’m currently working on refactoring my Banking app for better component encapsulation
+- 🌱 I’m currently learning Socket.io
+- 💬 Ask me about my future plans to learn about data analytics
+- 📫 How to reach me: andre89gomez@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: The (120lb) Husky you see in photos is named Beau, and he is almost 13.
