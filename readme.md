@@ -3,4 +3,4 @@
 - 💬 Ask me about my future plans to incorporate analytics into my applications
 - 📫 How to reach me: andre89gomez@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: The (120lb) Husky you see in photos is named Beau, and he is almost 13.
+- ⚡ Fun fact: I like to ride my Onewheel on the beach during low tides
