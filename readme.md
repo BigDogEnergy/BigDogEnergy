@@ -1,4 +1,4 @@
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,flask,github,js,nodejs,express,react,redux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,flask,github,nodejs,express,react,redux)](https://skillicons.dev)
 
 - 🔭 I’m currently working on refactoring my Banking app for better component encapsulation
 - 🌱 I’m currently learning Socket.io
