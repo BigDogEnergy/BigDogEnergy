@@ -13,7 +13,7 @@ San Diego, CA
 ![GitHub, Postman, VSCode](https://skillicons.dev/icons?i=github,postman,vscode)
 
 ## Databases/ORM
-![SQLite, Sequelize](https://skillicons.dev/icons?i=sqlite,sequelize)
+![SQLite, Sequelize, Postgres](https://skillicons.dev/icons?i=sqlite,sequelize,postgres)
 
 
 Hey there, I'm Chris Gomez. 
