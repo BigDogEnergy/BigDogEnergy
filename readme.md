@@ -3,14 +3,18 @@
 San Diego, CA  
 📧 chrisgomezsd@gmail.com
 
-## Languages/Libraries
-![My Skills](https://skillicons.dev/icons?i=js,html,css,flask,nodejs,express,react,redux,py,sqlite,sequelize)
+## Languages
+![JavaScript, HTML, CSS, Python](https://skillicons.dev/icons?i=js,html,css,py)
+
+## Frameworks/Libraries
+![Flask, Node.js, Express, React, Redux](https://skillicons.dev/icons?i=flask,nodejs,express,react,redux)
 
 ## Tools
-![My Skills](https://skillicons.dev/icons?i=github,postman,vscode,md)
+![GitHub, Postman, VSCode](https://skillicons.dev/icons?i=github,postman,vscode)
 
 ## Databases/ORM
-![My Skills](https://skillicons.dev/icons?i=sqlite,sequelize)
+![SQLite, Sequelize](https://skillicons.dev/icons?i=sqlite,sequelize)
+
 
 Hey there, I'm Chris Gomez. 
 
