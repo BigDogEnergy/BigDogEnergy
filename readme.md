@@ -6,9 +6,11 @@ San Diego, CA
 ## Languages/Libraries
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,flask,nodejs,express,react,redux,py,sqlite,sequelize)
 
-
 ## Tools
 ![My Skills](https://skillicons.dev/icons?i=github,postman,vscode,md)
+
+## Databases/ORM
+![My Skills](https://skillicons.dev/icons?i=sqlite,sequelize)
 
 Hey there, I'm Chris Gomez. 
 
