@@ -10,7 +10,7 @@ San Diego, CA
 ![Flask, Node.js, Express, React, Redux](https://skillicons.dev/icons?i=flask,nodejs,express,react,redux)
 
 ## Tools
-![GitHub, Postman, VSCode](https://skillicons.dev/icons?i=github,postman,vscode)
+![GitHub, Postman, VSCode](https://skillicons.dev/icons?i=github,postman,vscode,excel)
 
 ## Databases/ORM
 ![SQLite, Sequelize, Postgres](https://skillicons.dev/icons?i=sqlite,sequelize,postgres)
