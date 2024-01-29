@@ -23,4 +23,4 @@ Hey there, I'm Chris Gomez.
 - 💬 Ask me about my future plans to incorporate analytics into my applications.
 - 📫 Find me on: [LinkedIn](https://www.linkedin.com/in/chris-gomez-714508158/).
 - 😄 Pronouns: He/Him.
-- ⚡ Fun fact: I like to ride my Onewheel on the beach during low tides. When my dog was younger, he would run with me but now he just loves naps.
+- ⚡ Fun fact: I like to ride my Onewheel on the beach during low tides. When my dog was younger, he would run with me but now he just loves naps. 15
