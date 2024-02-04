@@ -1,4 +1,4 @@
-# Chris Gomez!
+# Chris Gomez
 
 San Diego, CA  
 📧 chrisgomezsd@gmail.com
