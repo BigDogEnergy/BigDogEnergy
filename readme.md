@@ -16,7 +16,7 @@ San Diego, CA
 ![SQLite, Sequelize, Postgres](https://skillicons.dev/icons?i=sqlite,sequelize,postgres)
 
 
-Hey there, I'm Chris Gomez
+Hey there, I'm Chris Gomez!
 
 - 🔭 I’m currently working on refactoring my Banking app for better component encapsulation.
 - 🌱 I’m currently learning Socket.io and plan to move to Canvas to learn it as well.
