@@ -18,8 +18,8 @@ San Diego, CA
 
 Hey there, I'm Chris Gomez!
 
-- 🔭 I’m currently working on refactoring my Banking app for better component encapsulation.
-- 🌱 I’m currently learning Socket.io and plan to move to Canvas to learn it as well.
+- 🔭 I’m currently working on refactoring my Banking app.
+- 🌱 Learning Socket.io and plan to move to Canvas. I'd like to learn to make graphs and dashboards using it
 - 💬 Ask me about my future plans to incorporate analytics into my applications.
 - 📫 Find me on: [LinkedIn](https://www.linkedin.com/in/chris-gomez-714508158/).
 - 😄 Pronouns: He/Him.
