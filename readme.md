@@ -16,7 +16,7 @@ San Diego, CA
 ![SQLite, Sequelize, Postgres](https://skillicons.dev/icons?i=sqlite,sequelize,postgres)
 
 
-Hey there, I'm Chris Gomez!
+Hey there, I'm Chris Gomez
 
 - 🔭 I’m currently studying DS&A.
 - 🌱 Learning Socket.io and plan to move to Canvas. I'd like to learn to make graphs and dashboards using it
