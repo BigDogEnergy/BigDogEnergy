@@ -20,7 +20,11 @@ Some of my additional achievements include:
 - Created and maintained the processes for CS to perform monthly audits for product refunds. 
 - Designed and developed comprehensive database schemas for product-related issues, facilitating enhanced issue tracking and resolution by the customer service team.
 - Created brand-specific monthly reports to ensure our partners knew of any trending issues
-- All of these things were completed while working in a remote setting.
+- Assisted in the creation of processes with the Trust and Safety team to identify and investigate potential Fraudulent acitivity
+
+& all of these things were completed while working in a remote setting.
+
+
 
 If your team needs someone who is ready to learn, and eager to succeed...
 
