@@ -17,8 +17,10 @@ Some of my additional achievements include:
 
 - Created and maintained a custom Zendesk email tagging system, including funnels for teams.
 - Created and maintained a handbook for all CS agents based on common scenarios
-- Created and maintained the processes for CS to perform monthly audits for product refunds. I'd later create Brand specific monthly-reporting using this same data.
-- Did I mention: I designed and developed comprehensive database schemas for product-related issues, facilitating enhanced issue tracking and resolution by the customer service team. 
+- Created and maintained the processes for CS to perform monthly audits for product refunds. 
+- Designed and developed comprehensive database schemas for product-related issues, facilitating enhanced issue tracking and resolution by the customer service team.
+- Created brand-specific monthly reports to ensure our partners knew of any trending issues
+- All of these things were completed while working in a remote setting.
 
 If your team needs someone who is ready to learn, and eager to succeed...
 
