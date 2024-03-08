@@ -1,5 +1,15 @@
 # Chris Gomez
 
+Hey there, and welcome to the next step of my adventure.
+
+- 🔭 I’m currently studying DS&A.
+- 🌱 Learning Socket.io and plan to move to Canvas. I'd like to learn to make graphs and dashboards using it
+- 💬 Ask me about my future plans to incorporate analytics into my applications.
+- 📫 Find me on: [LinkedIn](https://www.linkedin.com/in/chris-gomez-714508158/).
+- 😄 Pronouns: He/Him.
+- ⚡ Fun fact: I like to ride my Onewheel on the beach during low tides. When my dog was younger, he would run with me but now he just loves naps.
+
+
 San Diego, CA  
 📧 chrisgomezsd@gmail.com
 
@@ -14,13 +24,3 @@ San Diego, CA
 
 ## Databases/ORM
 ![SQLite, Sequelize, Postgres](https://skillicons.dev/icons?i=sqlite,sequelize,postgres)
-
-
-Hey there, I'm Chris Gomez!
-
-- 🔭 I’m currently studying DS&A.
-- 🌱 Learning Socket.io and plan to move to Canvas. I'd like to learn to make graphs and dashboards using it
-- 💬 Ask me about my future plans to incorporate analytics into my applications.
-- 📫 Find me on: [LinkedIn](https://www.linkedin.com/in/chris-gomez-714508158/).
-- 😄 Pronouns: He/Him.
-- ⚡ Fun fact: I like to ride my Onewheel on the beach during low tides. When my dog was younger, he would run with me but now he just loves naps.
