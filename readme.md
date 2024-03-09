@@ -26,8 +26,7 @@ Some of my additional achievements include:
 & all of these things were completed while working in a remote setting.
 
 
-If your team needs someone who is ready to learn, and eager to succeed...
-
+If your team needs someone who is ready to learn, and eager to succeed:
 - 📫 Find me on: [LinkedIn](https://www.linkedin.com/in/chris-gomez-714508158/).
 - ⚡ Fun fact: I like to ride my Onewheel on the beach during low tides. 
 
