@@ -1,6 +1,6 @@
 # Chris Gomez
 
-Hey there, and welcome to the next step of my adventure -- this time with a new skill: Software Engineering!
+Hey there, and welcome to the next step of my adventure -- this time with a new skill: Software Engineering
 
 ## My Story
 
