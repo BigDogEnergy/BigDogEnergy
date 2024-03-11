@@ -1,5 +1,7 @@
 # Chris Gomez
 
+![Beau](https://bigdogenergy.github.io/img/BeauLake.jpg)
+
 ## My Story
 
 I take pride in the fact my pursuit of excellence has shaped my career.
