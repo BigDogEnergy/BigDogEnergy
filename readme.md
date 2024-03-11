@@ -1,7 +1,5 @@
 # Chris Gomez
 
-Hey there, and welcome to the next step of my adventure -- this time with a new skill: Software Engineering
-
 ## My Story
 
 I take pride in the fact my pursuit of excellence has shaped my career.
