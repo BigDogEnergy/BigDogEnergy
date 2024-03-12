@@ -28,7 +28,7 @@ Some of my additional achievements include:
 
 If your team needs someone who is ready to learn, and eager to succeed:
 - 📫 Find me on: [LinkedIn](https://www.linkedin.com/in/chris-gomez-714508158/).
-- ⚡ Fun fact: I like to ride my Onewheel on the beach during low tides. 
+- ⚡ Fun fact: I like to ride my Onewheel on the beach during low tides. The sand is just compact enough from the moisture that you can sand surf.
 
 San Diego, CA  
 📧 chrisgomezsd@gmail.com
