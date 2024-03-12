@@ -1,4 +1,4 @@
-# Chris Gomez!
+# Chris Gomez
 
 ![Beau](https://bigdogenergy.github.io/img/BeauLake.jpg)
 
