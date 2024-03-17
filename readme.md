@@ -1,6 +1,6 @@
 # Chris Gomez
 
-Let's get the important thing out the way first. This is Beau:
+Let's get the important thing out the way first. This is Prince Beau:
 ![Beau](https://bigdogenergy.github.io/img/BeauLake.jpg)
 
 ## My Story
