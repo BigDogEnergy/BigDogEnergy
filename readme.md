@@ -8,7 +8,7 @@ Let's get the important thing out the way first. This is Beau:
 I take pride in the fact my pursuit of excellence has shaped my career.
 
 At my last role, over the course of the 5+ years I spent with Eaze, I climbed the ladder from a basic CS Agent
-to a custom role of Quality Improvement Specialist. This was through demonstrating the ability to effectively
+to a custom role of QA Analyst. This was through demonstrating the ability to effectively
 identify problems and create solutions utilizing the resources available to the team.
 
 Let me give you an example: The first thing I ever built for Eaze was the calculator that CS used for product-related cannabis taxes. 
@@ -17,14 +17,14 @@ entire tenure with the company we would utilize it. They may still be using some
 
 Some of my additional achievements include:
 
-- Created and maintained a custom Zendesk email tagging system, including funnels for teams.
-- Created and maintained a handbook wiki for all CS agents based on all common scenarios and what expectations were for their response.
-- Created and maintained the processes for CS to perform monthly audits for product and customer service issues. 
-- Designed and developed comprehensive database schemas for product-related issues, facilitating enhanced issue tracking and resolution by the customer service team.
-- Created brand-specific monthly reports to ensure our partners knew of any trending issues
-- Assisted in the creation of processes with the Trust and Safety team to identify and investigate potential Fraudulent acitivity
+- Developed and maintained a custom Zendesk email tagging system, streamlining communication and enhancing the efficiency of customer support teams.
+- Created a comprehensive handbook wiki for all customer service agents, outlining common scenarios and response expectations, facilitating standardized and effective customer interactions.
+- Established monthly audit processes for product and customer service issues, enhancing the team's ability to identify and address areas for improvement.
+- Designed detailed database schemas for tracking product-related issues, significantly improving the resolution process and overall customer service efficiency.
+- Generated brand-specific monthly reports, providing partners with valuable insights into trending issues and fostering transparency.
+- Collaborated with the Trust and Safety team to develop processes for identifying and investigating potential fraudulent activities, enhancing the company's security measures.
 
-& all of these things were completed while working in a remote setting.
+These contributions were made while adeptly managing the challenges of a remote work environment, showcasing strong adaptability and self-motivation.
 
 
 If your team needs someone who is ready to learn, and eager to succeed:
