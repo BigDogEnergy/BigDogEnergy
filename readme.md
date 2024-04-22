@@ -17,12 +17,13 @@ entire tenure with the company we would utilize it. They may still be using some
 
 Some of my additional achievements include:
 
-- Developed and maintained a custom Zendesk email tagging system, streamlining communication and enhancing the efficiency of customer support teams.
+- Developed, maintained, and optimized dashboards and reporting tools, aligning with QMS standards, to provide critical insights into customer experience, product performance, and business operations, supporting strategic decision-making.
 - Created a comprehensive handbook wiki for all customer service agents, outlining common scenarios and response expectations, facilitating standardized and effective customer interactions.
 - Established monthly audit processes for product and customer service issues, enhancing the team's ability to identify and address areas for improvement.
 - Designed detailed database schemas for tracking product-related issues, significantly improving the resolution process and overall customer service efficiency.
 - Generated brand-specific monthly reports, providing partners with valuable insights into trending issues and fostering transparency.
 - Collaborated with the Trust and Safety team to develop processes for identifying and investigating potential fraudulent activities, enhancing the company's security measures.
+- Developed and maintained a custom Zendesk email tagging system, streamlining communication and enhancing the efficiency of customer support teams.
 
 These contributions were made while adeptly managing the challenges of a remote work environment, showcasing strong adaptability and self-motivation.
 
