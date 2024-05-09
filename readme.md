@@ -36,7 +36,7 @@ San Diego, CA
 📧 chrisgomezsd@gmail.com
 
 ## Languages
-![JavaScript, HTML, CSS, Python](https://skillicons.dev/icons?i=js,html,css,py)
+![JavaScript, HTML, CSS, Python, SQL](https://skillicons.dev/icons?i=js,html,css,py,sql)
 
 ## Frameworks/Libraries
 ![Flask, Node.js, Express, React, Redux](https://skillicons.dev/icons?i=flask,nodejs,express,react,redux)
