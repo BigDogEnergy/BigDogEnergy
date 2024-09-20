@@ -3,20 +3,12 @@
 Let's get the important thing out the way first. This is Beau:
 ![Beau](https://bigdogenergy.github.io/img/BeauLake.jpg)
 
-## My Story
+## Things Beau would be proud of me for:
 
-I take pride in the fact my pursuit of excellence has shaped my career.
+### Most recently
+- Became hired as the primary Front End Engineer after my first internship for a large community-management platform. I have since began ramping up on the difficulty of tasks and have been an active member with planning new features and gameplans for their implementation.
 
-At my last role, over the course of the 5+ years I spent with Eaze, I climbed the ladder from a basic CS Agent
-to a custom role of QA Analyst. This was through demonstrating the ability to effectively
-identify problems and create solutions utilizing the resources available to the team.
-
-Let me give you an example: The first thing I ever built for Eaze was the calculator that CS used for product-related cannabis taxes. 
-Sure, it was a Frankenstein of Excel functions with an hourly imported file (from a simple SQL query). It worked though, and for my
-entire tenure with the company we would utilize it. They may still be using some of my creations now!
-
-Some of my additional achievements include:
-
+### In my previous roles
 - Developed, maintained, and optimized dashboards and reporting tools, aligning with QMS standards, to provide critical insights into customer experience, product performance, and business operations, supporting strategic decision-making.
 - Created a comprehensive handbook wiki for all customer service agents, outlining common scenarios and response expectations, facilitating standardized and effective customer interactions.
 - Established monthly audit processes for product and customer service issues, enhancing the team's ability to identify and address areas for improvement.
@@ -25,12 +17,12 @@ Some of my additional achievements include:
 - Collaborated with the Trust and Safety team to develop processes for identifying and investigating potential fraudulent activities, enhancing the company's security measures.
 - Developed and maintained a custom Zendesk email tagging system, streamlining communication and enhancing the efficiency of customer support teams.
 
-These contributions were made while adeptly managing the challenges of a remote work environment, showcasing strong adaptability and self-motivation.
+These contributions were made while adeptly managing the challenges of a remote work environment, showcasing my strong adaptability and self-motivation. Plus Beau hates when I am not home to be his private chef, personal assistant, and caretaker.
 
 
-If your team needs someone who is ready to learn, and eager to succeed:
+## If your team needs someone who is ready to learn, and eager to succeed:
 - 📫 Find me on: [LinkedIn](https://www.linkedin.com/in/chris-gomez-714508158/).
-- ⚡ Fun fact: I like to ride my Onewheel on the beach during low tides. The sand is just compact enough from the moisture that you can sand surf.
+- ⚡ Fun fact: I like to ride my Onewheel on the beach during low tides. It's best done when the sunset matches the timing. You can do so because the sand is just compact enough from the excess moisture.
 
 San Diego, CA  
 📧 chrisgomezsd@gmail.com
