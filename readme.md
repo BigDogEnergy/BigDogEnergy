@@ -1,7 +1,8 @@
 # Chris Gomez
 
-Let's get the important thing out the way first. This is Beau:
+## Let's get the important thing out the way first. This is Beau:
 ![Beau](https://bigdogenergy.github.io/img/BeauLake.jpg)
+He has two assistants (my cats). Ask me for photos of them!
 
 ## Things Beau would be proud of me for:
 
